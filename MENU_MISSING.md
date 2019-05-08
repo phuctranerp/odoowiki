@@ -56,7 +56,7 @@ odoo-bin: error: unrecognized parameters: 'shell'
 ```
 
 #### Setting _parent_store = False
-SR faced the same issue (but in a different object) and this is how it had been fixed
+A friend of mine faced the same issue (but in a different object) and this is how it had been fixed
 ```
 from openerp.osv import osv
 import logging
