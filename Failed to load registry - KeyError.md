@@ -1,5 +1,5 @@
 ### Initial Issue
-I get the following error while making the delivery on Production instance.
+I got the following error while making the delivery on Production instance.
 ```
 2019-05-23 17:25:26,804 22845 INFO projectx_production openerp.modules.loading: loading 162 modules...
 2019-05-23 17:25:26,900 22845 ERROR projectx_production openerp.modules.registry: Failed to load registry
