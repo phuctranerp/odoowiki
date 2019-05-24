@@ -38,3 +38,7 @@ Module `projectx_account_budget` included the inheritance of model `purchase.req
 
 ### Solution
 Add module `purchase_requisition` as the dependency on `projectx_account_budget` and reupgrade it.
+
+
+### Credits
+Thank you to my best colleague ever (Nils Hamerlinck) for the support
